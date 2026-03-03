@@ -1,0 +1,4 @@
+west
+occident
+sunset
+measure
